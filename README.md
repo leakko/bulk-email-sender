@@ -1,6 +1,6 @@
 ## This is a Node.js program to send bulk emails using Mailersend API
 
-## Prerequisites:
+## Requisites:
 - Node.js version >=20.0.0
 - Mailsersend account configured out
 
